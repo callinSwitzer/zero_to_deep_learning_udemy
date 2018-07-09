@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/callinSwitzer/zero_to_deep_learning_udemy/master?filepath=course%2F0_Check_Environment.ipynb)
+
+
 # Zero to Deep Learning™ Udemy Video Course
 
 
